@@ -1,0 +1,7 @@
+.vscode/
+pkg/
+.DS_Store
+tmp/
+lib/llama_rb.bundle
+lib/llama_rb.so
+
